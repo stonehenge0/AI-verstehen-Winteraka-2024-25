@@ -16,6 +16,7 @@ Schedule Hälfte 2:
 
 - [The animated transformer](https://prvnsmpth.github.io/animated-transformer/)
 - [CNN explainer](https://cs231n.github.io/convolutional-networks/)
+- [Finetuning Llama](https://www.datacamp.com/tutorial/llama3-fine-tuning-locally)
 
 ## Interactive Walkthrough eines Transformers
 
